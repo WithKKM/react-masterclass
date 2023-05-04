@@ -58,7 +58,7 @@ const Box = styled.div`
   animation: ${rotationAnimation} 1s linear infinite;
   ${Emoji} {
     &:hover {
-      font-size: 70px;
+      font-size: 72px;
     }
     &:active {
       opacity: 0;
